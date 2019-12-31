@@ -1,2 +1,2 @@
 x = document.createElement("h2");
-x.createTextNode = "Vampire Weekend";
+y = x.createTextNode = "Vampire Weekend";
